@@ -1,0 +1,9 @@
+{
+    "enabled": true,
+    "images": {
+        "onion_demo_A.png": "A",
+        "onion_demo_B.png": "B",
+        "onion_demo_C.png": "C",
+        "onion_demo_D.png": "D"
+    }
+}
